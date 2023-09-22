@@ -1,9 +1,9 @@
 # BasicTicTacToe
 
-## Description**:
+## Description:
 This repository contains a straightforward implementation of the classic game of Tic-Tac-Toe using Java without utilizing Object-Oriented Programming (OOP) concepts. The code focuses on simplicity and readability, making it an excellent resource for beginners looking to grasp the basics of game development in Java.
 
-## Features**:
+## Features:
 * Clean and concise Java code for a console-based Tic-Tac-Toe game.
 * Demonstrates fundamental control flow structures like loops and conditional statements.
 * Provides a solid foundation for understanding basic game logic and user input handling in Java.
