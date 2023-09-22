@@ -15,7 +15,7 @@ This repository contains a straightforward implementation of the classic game of
 4. Follow the on-screen instructions to make your moves using coordinates (e.g., "A1" for the top-left cell).
 
 ## Note:
-This implementation is intentionally designed without OOP concepts to serve as a learning tool for those new to Java or programming in general. For a more sophisticated version with OOP principles, consider checking out our [OOP-based Tic-Tac-Toe project](link_to_oop_version).
+This implementation is intentionally designed without OOP concepts to serve as a learning tool for those new to Java or programming in general.
 
 ## Contributing:
 We welcome contributions! If you have any ideas for improvement or spot any bugs, feel free to open an issue or submit a pull request.
